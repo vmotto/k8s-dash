@@ -145,7 +145,7 @@ spec:
         effect: NoSchedule
 
 ---
-# ------------------- Dashboard Service ------------------- #
+# ------------------ Dashboard Service ------------------- #
 
 kind: Service
 apiVersion: v1
